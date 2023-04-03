@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1680484838 source:c:\users\léo almeida\desktop\estruturadedados\estudoparaprova\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
